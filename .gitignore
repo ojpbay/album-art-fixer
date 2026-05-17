@@ -55,4 +55,5 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
-/AlbumArtFixer/.vs/AlbumArtFixer/FileContentIndex/cb703e1f-0bd2-4ef2-aa3b-b23ab9185c54.vsidx
+/AlbumArtFixer/.vs/
+/.vs/
